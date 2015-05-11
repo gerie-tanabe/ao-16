@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCIS", "CCIS\CCIS.csproj", "{89C6202C-56F3-44EF-B54F-63BF9A346D10}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{39DE8D04-2CB5-4BA7-A36E-96F76828E800}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89C6202C-56F3-44EF-B54F-63BF9A346D10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89C6202C-56F3-44EF-B54F-63BF9A346D10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89C6202C-56F3-44EF-B54F-63BF9A346D10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89C6202C-56F3-44EF-B54F-63BF9A346D10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39DE8D04-2CB5-4BA7-A36E-96F76828E800}.Debug|Any CPU.ActiveCfg = Debug
+		{39DE8D04-2CB5-4BA7-A36E-96F76828E800}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

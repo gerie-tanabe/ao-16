@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CCIS">
+</Property><Property Name="Solution File" Value="D:\Projects\CCIS 10-19-2012\CCIS.sln">
+</Property><Property Name="Date" Value="Wednesday, December 05, 2012">
+</Property><Property Name="Time" Value="10:19 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CCIS.sln" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS.sln">
+</Event><Event ErrorLevel="4" Project="CCIS" Source="http://go.microsoft.com/fwlink/?LinkId=159919" Description="Warning: this project requires Crystal Reports, which is no longer included with Visual Studio. Please click here for more information.">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\CCIS.csproj" Description="Project file successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\CCIS.csproj">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\CCIS.csproj.user" Description="Project user file successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\CCIS.csproj.user">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\AboutBox1.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\AboutBox1.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\AboutBox1.Designer.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\AboutBox1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\Clients.Designer.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\Clients.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\CrystalReportClearance.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\CrystalReportClearance.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\CrystalReportClient.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\CrystalReportClient.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\CrystalReportEvaluation.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\CrystalReportEvaluation.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\CrystalReportIssued.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\CrystalReportIssued.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\CrystalReportPending.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\CrystalReportPending.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\DocumentDetails.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\DocumentDetails.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\DocumentDetails.Designer.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\DocumentDetails.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormAO16.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormAO16.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormAO16.Designer.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormAO16.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormClientReport.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormClientReport.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormClientReport.Designer.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormClientReport.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormClients.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormClients.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormClients.Designer.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormClients.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormClientsSearch.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormClientsSearch.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormClientsSearch.Designer.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormClientsSearch.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormCrystalReportClearance.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormCrystalReportClearance.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormCrystalReportClearance.Designer.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormCrystalReportClearance.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormEvaluation.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormEvaluation.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormEvaluation.Designer.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormEvaluation.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormIssuedCertificates.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormIssuedCertificates.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormIssuedCertificates.Designer.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormIssuedCertificates.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormMaterials.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormMaterials.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormMaterials.Designer.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormMaterials.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormPendingCertificate.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormPendingCertificate.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormPendingCertificate.Designer.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormPendingCertificate.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormProcurement.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormProcurement.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormProcurement.Designer.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormProcurement.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormSearch.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormSearch.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormSearch.Designer.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormSearch.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormSignatories.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormSignatories.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormSignatories.Designer.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormSignatories.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormTechDetails.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormTechDetails.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormTechDetails.Designer.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormTechDetails.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormUsers.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormUsers.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormUsers.Designer.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormUsers.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\MyTabControl.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\MyTabControl.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\Program.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\Program.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\Record.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\Record.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\TechnicalRequirements.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\TechnicalRequirements.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\TechnicalRequirements.Designer.cs" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\TechnicalRequirements.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\app.config" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\app.config">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\Properties\Settings.settings" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\Clients.xsc" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\Clients.xsc">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\Clients.xsd" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\Clients.xsd">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\Clients.xss" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\Clients.xss">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\DocumentDetails.xsc" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\DocumentDetails.xsc">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\DocumentDetails.xsd" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\DocumentDetails.xsd">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\DocumentDetails.xss" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\DocumentDetails.xss">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\Images\Actions-help-about-icon.png" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\Images\Actions-help-about-icon.png">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\TechnicalRequirements.xsc" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\TechnicalRequirements.xsc">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\TechnicalRequirements.xsd" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\TechnicalRequirements.xsd">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\TechnicalRequirements.xss" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\TechnicalRequirements.xss">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\Resources\file_find.gif" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\Resources\file_find.gif">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\Images\NAMRIA.jpg" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\Images\NAMRIA.jpg">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\Images\stock_certificate.ico" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\Images\stock_certificate.ico">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\Images\undo_16.png" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\Images\undo_16.png">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\AboutBox1.resx" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\AboutBox1.resx">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\CrystalReportClearance.rpt" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\CrystalReportClearance.rpt">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\CrystalReportClient.rpt" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\CrystalReportClient.rpt">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\CrystalReportEvaluation.rpt" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\CrystalReportEvaluation.rpt">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\CrystalReportIssued.rpt" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\CrystalReportIssued.rpt">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\CrystalReportPending.rpt" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\CrystalReportPending.rpt">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormAO16.resx" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormAO16.resx">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormClientReport.resx" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormClientReport.resx">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormClients.resx" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormClients.resx">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormClientsSearch.resx" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormClientsSearch.resx">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormCrystalReportClearance.resx" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormCrystalReportClearance.resx">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormEvaluation.resx" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormEvaluation.resx">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormIssuedCertificates.resx" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormIssuedCertificates.resx">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormMaterials.resx" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormMaterials.resx">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormPendingCertificate.resx" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormPendingCertificate.resx">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormProcurement.resx" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormProcurement.resx">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormSearch.resx" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormSearch.resx">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormSignatories.resx" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormSignatories.resx">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormTechDetails.resx" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormTechDetails.resx">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\FormUsers.resx" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\FormUsers.resx">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\Properties\licenses.licx" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\Properties\licenses.licx">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\Properties\Resources.resx" Description="File successfully backed up as D:\Projects\CCIS 10-19-2012\Backup\CCIS\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\CCIS.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CCIS" Source="CCIS\CCIS.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CCIS.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CCIS.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CCIS" Source="CCIS\CCIS.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
